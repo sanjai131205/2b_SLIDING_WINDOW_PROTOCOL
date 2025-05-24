@@ -1,5 +1,5 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## NAME : SANJAI
+## NAME : SANJAI M
 ## REGISTER NUMBER : 212224240143
 ## AIM
 To write a python program to perform sliding window protocol
